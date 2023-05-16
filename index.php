@@ -56,7 +56,7 @@
 			</div>
 		<div class="stopka">
 			<div class="stopkal">
-				<p>Autorem aplikacji jest: 0000000000000000</p>
+				<p>Autorem aplikacji jest: ekipa z mazowsza</p>
 				<ul>
 					<li>Skontaktuj się</li>
 					<li>Poznaj naszą firmę</li>
